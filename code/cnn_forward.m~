@@ -8,7 +8,7 @@ function out = cnn_forward(net, x, layerNum)
 % layerNum: number of the layer
 %
 % OUTPUT:
-% out: output of the layer
+% out: 
 
 opts.res = [] ;
 opts.conserveMemory = false ;
